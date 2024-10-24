@@ -1,0 +1,8 @@
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\WPF-Slideshow_MarkupCompile.cache
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\WPF-Slideshow_MarkupCompile.lref
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\WPF-Slideshow.g.resources
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\refint\WPF-Slideshow.dll
+C:\Users\Kishan\programs\Dotnet 6.0\WPF-Slideshow\obj\Debug\net8.0-windows\WPF-Slideshow.pdb
